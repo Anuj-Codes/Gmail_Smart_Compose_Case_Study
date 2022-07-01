@@ -14,3 +14,5 @@ Here we have to make a model, which can predict the sentences or words based on 
 ![Smart_gamil_compose_demo](https://user-images.githubusercontent.com/92272579/176687915-1bef2547-5a2f-4180-aa03-a9cffeed59e0.gif)
 
 My detailed approach can be viewed in this medium article.
+
+https://medium.com/@anujmlcode/gmail-smart-compose-using-neural-networks-to-help-write-emails-4a7a176ce5af
