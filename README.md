@@ -9,6 +9,9 @@ Smart compose is smarter than you think, we engage in a lot of text-based commun
 # Business problem
 Here we have to make a model, which can predict the sentences or words based on the given sentence or some words. So here the input is a sequence of words and the output is also a sequence of words, so we have to build the sequence-based model.
 
+# Bidirectional GRU Model Architecture
+![image](https://user-images.githubusercontent.com/92272579/177167018-392eb7d8-f595-4760-a21f-bc0b64997355.png)
+
 # Deployed Gmail Smart compose Application demo
 
 ![Smart_gamil_compose_demo](https://user-images.githubusercontent.com/92272579/176687915-1bef2547-5a2f-4180-aa03-a9cffeed59e0.gif)
